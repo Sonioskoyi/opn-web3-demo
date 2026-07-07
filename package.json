@@ -1,0 +1,7 @@
+{
+  "name": "opn-web3-demo",
+  "version": "1.0.0",
+  "dependencies": {
+    "ethers": "^6.15.0"
+  }
+}
